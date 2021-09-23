@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KAMaps</string>
+    <string name="noGPSMsg">Your GPS seems to be disabled, do you want to enable it?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="denyPermission">Please provide location and GPS permission to access your location</string>
+</resources>
